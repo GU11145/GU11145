@@ -1,16 +1,21 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
+
+Meu nome é Gustavo
 
 
-**GU11145/GU11145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando no (alura):https://www.alura.com.br
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+
+### Voce entrar em contato comigo:gmail
+
+00001114521887SP@al.educacao.sp.gov.br
+
+@gustavo_sedia
+
+
+![](https://th.bing.com/th/id/OIP.R6mvjg7vBPn-jb7UXVxsvwHaEK?rs=1&pid=ImgDetMain)
